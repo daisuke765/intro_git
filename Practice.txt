@@ -1,2 +1,3 @@
 Git practic
 test
+git diff
